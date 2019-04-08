@@ -1,3 +1,2 @@
 def enlarge(i):
-    return i * 100
-
+    return i * 1
